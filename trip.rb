@@ -11,13 +11,13 @@ puts "I would like to stay in #{stay}"
 
 puts "Where do you want to eat?"
 
-eats=gets.chomp.capitalize
+eat=gets.chomp.capitalize
 
 puts "How long are you going to stay?"
 
 nights=gets.chomp.capitalize
 
-puts "In you're trip you are going to stay at #{stay} for #{nights} nights and eat #{eats}"
+puts "In you're trip you are going to stay at #{stay} for #{nights} nights and eat #{eat}"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
