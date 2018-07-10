@@ -9,9 +9,9 @@ stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 puts "I would like to stay in #{stay}"
 # Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
 
-puts "What do you want to eat?"
+puts "What would you like to eat?"
 
-eat=gets.chomp.capitalize
+eat = gets.chomp.capitalize
 
 puts "How long are you going to stay?"
 
