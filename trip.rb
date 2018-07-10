@@ -21,4 +21,4 @@ puts "In you're trip you are going to stay at #{stay} for #{nights} nights and e
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts ""
+
